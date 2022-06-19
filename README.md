@@ -1,5 +1,15 @@
 # WeatherAppAngular
 
+Weather App Angular is a full-stack weather app built with Angular 12.2.3 and I have used a public API from RapidAPI.COM (https://rapidapi.com/) to get live weather forecast values.
+
+Angular service is used to call the weather API from our Angular application.
+
+Angular forms to get user inputs where the user will type in the city name in our Angular weather app and then based on the city name, we will fetch the weather data for the city from the weather API.
+
+Icons - https://www.flaticon.com/ 
+
+Image - https://www.pexels.com/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
 ## Development server
